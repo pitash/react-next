@@ -1,1 +1,1 @@
-# rnext
+# react-next
